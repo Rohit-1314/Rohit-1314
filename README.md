@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit-1314
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on front end project
+- 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me rohit369id@gmail.com
 
 <!---
